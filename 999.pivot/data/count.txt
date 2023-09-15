@@ -1,0 +1,11 @@
+{"now":"sep-14-2023-1-17-am","total":8457,"snow":3749}
+{"now":"sep-13-2023-5-57-pm","total":8288,"snow":3633}
+{"now":"sep-12-2023-11-21-am","total":8030,"snow":3460}
+{"now":"sep-11-2023-3-25-pm","total":7959,"snow":3423}
+{"now":"sep-11-2023-3-21-pm","total":7910,"snow":3425}
+{"now":"sep-11-2023-2-38-pm","total":7813,"snow":3354}
+{"now":"sep-11-2023-2-29-pm","total":7767,"snow":3326}
+{"now":"sep-7-2023-9-09-am","total":4108,"snow":1815}
+{"now":"sep-6-2023-5-10-pm","total":3875,"snow":1753}
+{"now":"sep-5-2023-8-45-am","total":2382,"snow":1141}
+{"now":"sep-4-2023-3-06-pm","total":2352,"snow":1120}
